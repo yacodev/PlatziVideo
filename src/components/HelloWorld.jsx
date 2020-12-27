@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HelloWord = ()=>{
+const HelloWord = ()=>(
   <h1>hola mundo</h1>
-};
+);
 export default HelloWord;
